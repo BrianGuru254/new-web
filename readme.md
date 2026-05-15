@@ -40,4 +40,3 @@ It is designed with performance, accessibility, and scalability in mind.
 ---
 
 ## 📂 Project Structure
-
